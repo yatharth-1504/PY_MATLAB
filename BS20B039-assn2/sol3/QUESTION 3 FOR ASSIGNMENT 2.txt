@@ -1,0 +1,40 @@
+> QUESTION 3 FOR ASSIGNMENT 2
+* Pick five commands or tools that people use in non-free environment and identify a suitable alternative from the free and open-source ecosystem. Give documentary references (links) for someone to verify the information you provide. You should prefer those tools that are typically used by engineering community in the broad area of scientific computing.
+> ANSWER
+* TOOL 1: Microsoft excel 
+* Microsoft excel is basically a spreadsheet where we can store tabular data. It is developed by Microsoft for windows, android, MACOS and IOS. It also has important features like calculations, graphing tools, pivot tables and a macro programming language called visual basic language (VBA). MS Excel has been a very widely applied spreadsheet for these platforms.
+* Alternatives:   
+* Google sheets: Google Sheets is Google’s cloud-based platform being an alternative to MS excel. If you not having much to do with graphical commutations and have to do more with what an average MS Excel needs then this is the correct place for you. 
+* AWK for text processing: It is a very powerful tool offered in an open-source Linux environment. AWK is a very fast and power tool when it comes to do tasks like text processing of really large files say files having 2 million records, while doing such large processing it has been noticed that MS excel fails.
+*  LibreOffice Calc: LibreOffice is a free office suit that includes its own Excel    alternative, also called Calc. It has some restrictions like lacking cloud support and real-time collaborations. But it also has some robust list of features many of which aren’t there in MS excel.
+* TOOL 2: MATLAB
+* MATLAB (Matrix laboratory): It is a proprietary multi-programming language and numeric computing environment developed by MathWorks. MATLAB allows various matrix manipulations as in linear algebra, plotting graphs dealing with data algorithm implementation, creation of UI and interfacing with programmes written in other languages.
+* Alternatives:
+* SAGE (sage math): A very powerful tool used for symbolic computations, plotting graphs, matrix manipulations and various mathematical tools we need to use on functions such as integrals and differentials.  
+* GNU OCTAVE: It aims to be a full clone of MATLAB. It works very fast assigned computational tasks. It also have a built in GUI very similar to MATLAB.
+
+
+* TOOL 3:  BigML 
+* BigML :  It is another widely used Data Science Tool. It provides a fully interactable, cloud-based GUI environment that you can use for processing Machine Learning Algorithms. BigML provides a standardized software using cloud computing for industry requirements. Through it, companies can use Machine Learning algorithms across various parts of their company. For example, it can use this one software across for sales forecasting, risk analytics, and product innovation. BigML specializes in predictive modelling. It uses a wide variety of Machine Learning algorithms like clustering, classification, time-series forecasting, etc. BigML provides an easy-to-use web-interface using Rest APIs and you can create a free account or a premium account based on your data needs. It allows interactive visualizations of data and provides you with the ability to export visual charts on your mobile or IOT devices. Furthermore, BigML comes with various automation methods that can help you to automate the tuning of hyperparameter models and even automate the workflow of reusable scripts.
+* ALTERNATIVE
+* Apache PredictionIO : Apache PredictionIO® is an open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task
+
+* TOOL 4: Tableau
+* Tableau: It is a Data Visualization software that is packed with powerful graphics to make interactive visualizations. It is focused on industries working in the field of business intelligence. The most important aspect of Tableau is its ability to interface with databases, spreadsheets, OLAP (Online Analytical Processing) cubes, etc. Along with these features, Tableau has the ability to visualize geographical data and for plotting longitudes and latitudes in maps. Data Science Tools – Tableau Along with visualizations, you can also use its analytics tool to analyse data. Tableau comes with an active community and you can share your findings on the online platform. While Tableau is enterprise software, it comes with a free version called Tableau Public.
+* ALTERNATIVE
+* Apache Superset: Apache Superset is a data exploration and visualization web application. Superset provides: * An intuitive interface to explore and visualize datasets, and create interactive dashboards. * A wide array of beautiful visualizations to showcase your data.
+* RAWgraphs : RAWGraphs is an open source app built with the goal of making the visualization of complex data easy for everyone. Born as tool for designers and vis geeks, RAWGraphs aims at providing a missing link between spreadsheets and vector graphics editors.
+
+* TOOL 5: SAS
+* SAS:  SAS is a statistical software suite developed by SAS Institute for data management, advanced analytics, multivariate analysis, business intelligence, criminal investigation, and predictive analytics. SAS was developed at North Carolina State University from 1966 until 1976, when SAS Institute was incorporated.
+   It is one of those data science tools which are specifically designed for statistical operations. SAS is a closed source proprietary software that is used by large organizations to analyse data. SAS uses base SAS programming language which for performing statistical modelling. It is widely used by professionals and companies working on reliable commercial software. SAS offers numerous statistical libraries and tools that you as a Data Scientist can use for modelling and organizing the data.
+* ALTERNATIVES
+* . JASP: JASP is a free and open-source graphical program for statistical analysis supported by the University of Amsterdam. It is designed to be easy to use, and familiar to users of SPSS. It offers standard analysis procedures in both their classical and Bayesian form.
+* jamovi: jamovi is a new free and open "3rd generation" statistical spreadsheet. Designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS.
+
+References: 1.https://www.techrepublic.com/article/5-free-alternatives-to-microsoft-excel/
+2. https://perso.crans.org/besson/matlab-clones.en.html
+3. https://research.aimultiple.com/data-science-tools/
+4. https://en.m.wikipedia.org/wiki/SAS_(software)
+5. https://alternativeto.net/
+

@@ -1,0 +1,5 @@
+-rwxrwxrwx 1 yatharth_1504 yatharth_1504 3.3M Jul 15  2018 ./Computer-Networks--Network.ppt.gz
+-rwxrwxrwx 1 yatharth_1504 yatharth_1504 365K May  4 20:16 ./programing-club-proj-1.docx
+-rwxrwxrwx 1 yatharth_1504 yatharth_1504 110K Jul 16 02:42 ./screenshots/output_make_small.jpeg
+-rwxrwxrwx 1 yatharth_1504 yatharth_1504 110K Jul 16 02:34 ./screenshots/output_of_make_restore.jpeg
+-rwxrwxrwx 1 yatharth_1504 yatharth_1504 1.4M Jun  1 00:12 ./webops-cfi.docx

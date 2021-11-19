@@ -1,0 +1,25 @@
+#!/bin/bash
+#this is a script which renames the incorrectly named files correctly.
+for n in $(ls); do
+
+if [ "$(file $n|grep gif)" ]; then
+
+echo "Renaming ${NAME} to ${NAME%.*}.jpg"
+mv ${n} ${n%.*}.jpg
+
+elif [ "$(file $NAME|grep JPG)" ]; then
+
+echo "Renaming ${NAME} to ${NAME%.*}.jpg"
+mv ${NAME} ${NAME%.*}.jpg
+
+elif [ "$(file $NAME|grep PNG)" ]; then
+
+echo "Renaming ${NAME} to ${NAME%.*}.png"
+mv ${NAME} ${NAME%.*}.png
+
+else
+
+echo "No Change For ${NAME}"
+
+fi
+done
